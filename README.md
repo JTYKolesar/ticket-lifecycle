@@ -32,34 +32,23 @@ _We'll start by accessing the page where tickets can be created, as if we're an 
 - On the web browser (Microsoft Edge), go to the End User Ticket Page (http://localhost/osTicket/).
 - Click on "Open a New Ticket".
 <p align=center>
-<img src="https://i.imgur.com/pM6fklQ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Udla59t.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 _The credentials used here were ones created from the previous demo:_
 - Enter an Email Address and Full Name (this example uses **karen@osticket.com / Karen Karen**)
 - Select any Help Topic or one that was created in the previous demo (this example uses **Business Critical Outage**).
+- Type a quick Header and a short description under Issue Sumamry (anything can be typed for demonstration purposes).
+- Once done, click "Create Ticket".
 <p align=center>
-<img src="https://i.imgur.com/13fmFDx.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/40QD7AI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gg905UJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
+_Create a few more tickets with varying importance for demonstration purposes:_ 
 <p align=center>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-- 
-<p align=center>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-- 
-<p align=center>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-- 
-<p align=center>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gsYwMkX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Uh85P3N.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - 
