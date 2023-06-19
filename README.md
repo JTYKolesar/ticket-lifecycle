@@ -75,16 +75,50 @@ _Having the entire mobile online banking down is something that could have a maj
 <img src="https://i.imgur.com/CvAfVuZ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Wk23cCI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/QIbVd0K.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<hr>
+
+<h3>&#9314; Working the Issue</h3>
+
+_Observing the overview page, we can see every update happening within the Ticket Thread. As an Agent, we can communicate under Post Reply to bring status updates to anyone viewing this ticket or for conversational purposes regarding the issue at-hand._
+<p align=center>
 <img src="https://i.imgur.com/qtVIjs7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-_Observing the overview page, we can see every update happening within the Ticket Thread. As an Agent, we can communicate under Post Reply to bring status updates to anyone viewing this ticket or for conversational purposes regarding the issue at-hand._
 - Under Post Reply, type in a random message.
 - Keep the Ticket Status to "Open (current)", assuming the issues isn't resolved.
 - Click "Post Reply".
-
-_Like a virtual chat or messaging system, your message will be sent and posted on the thread._
 <p align=center>
 <img src="https://i.imgur.com/P5tLSZ5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/YvCnXJe.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+_Like a virtual chat or messaging system, your message will be sent and posted on the thread. The thread will constantly be updated with conversations back and forth, or status changes while working on the issue at-hand._
+<hr>
+
+<h3>&#9315; Resolution</h3>
+
+_Let's say the issue has finally been resolved:_
+- Under Post Reply, type in a random message stating a final update of the matter.
+- Change the Ticket Status to "Resolved".
+<p align=center>
+<img src="https://i.imgur.com/e1Ac4aR.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vkOXsXv.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+_Once a ticket is resolved, it is considered "closed", so it will disappear from the Open Tickets page._<br>
+_You can find it under the "Closed" tab, where you can see how many was closed at a certain time frame._
+<p align=center>
+<img src="https://i.imgur.com/xw9gHmX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- Continue to go through the rest of the remaining tickets and use best judgement on their Priorty, assignment to departments and teams, etc.
+<p align=center>
+<img src="https://i.imgur.com/N68R5Y9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h1><p align=center>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)</p></h1>
+
+<h3>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!</h3>
+
+_If you don't know how to, click <a href="https://github.com/JTYKolesar/azure-start/blob/main/README.md#bonus-delete-all-resources-in-azure">HERE</a>_
