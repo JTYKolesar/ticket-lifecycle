@@ -54,9 +54,11 @@ _Create a few more tickets with varying importance for demonstration purposes:_
 <h3>&#9313; Assignment and Communication</h3>
 
 _Tickets have been made! We'll now go into the Agent's perspective on their end:_
-- On the web browser (Microsoft Edge), go to the Help Desk Login Page (http://localhost/osTicket/scp/login.php) and sign into the osTicket Help Desk credentials (this example uses username **ostuser / ostuser@email.com**).
+- On the web browser (Microsoft Edge), go to the Help Desk Login Page (http://localhost/osTicket/scp/login.php).
+  - Log into the osTicket Help Desk using an Agent account (this example uses username **jane.doe / jane.doe@osticket.com**).
+  - Once logged in, you should see the created tickets from the clients.
 <p align=center>
-<img src="https://i.imgur.com/ud1VucL.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IlBoq7U.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 
 - 
