@@ -116,6 +116,7 @@ _You can find it under the "Closed" tab, where you can see how many was closed a
 <p align=center>
 <img src="https://i.imgur.com/N68R5Y9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<hr>
 
 <h1><p align=center>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)</p></h1>
 
