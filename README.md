@@ -4,8 +4,9 @@
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 
-This demonstration outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system "osTicket".<br />
-_<b>NOTE:</b> This demonstration will use materials and credentials created in the previous demonstration, ["Post-Install Configuration"](https://github.com/JTYKolesar/post-install-config)._
+This demonstration outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system "osTicket".
+
+_<b>NOTE:</b> This demonstration uses materials created in the previous demonstration, ["Post-Install Configuration"](https://github.com/JTYKolesar/post-install-config)._
 
 <h2>Environments and Technologies Used</h2>
 
@@ -120,6 +121,6 @@ _You can find it under the "Closed" tab, where you can see how many was closed a
 
 <h1><p align=center>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)</p></h1>
 
-<h3>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!</h3>
-
-_If you don't know how to, click <a href="https://github.com/JTYKolesar/azure-start/blob/main/README.md#bonus-delete-all-resources-in-azure">HERE</a>_
+<p align=right>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!<br>
+If you don't know how to, click <a href="https://github.com/JTYKolesar/azure-start/blob/main/README.md#bonus-delete-all-resources-in-azure">HERE</a>
+</p>
