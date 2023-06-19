@@ -53,25 +53,25 @@ _Create a few more tickets with varying importance for demonstration purposes:_
 
 <h3>&#9313; Assignment and Communication</h3>
 
-_Tickets have been made! We'll now go into the Agent's perspective on their end:_
+_Tickets have been made! We'll now go into the Agent's perspective of their end:_
 - On the web browser (Microsoft Edge), go to the Help Desk Login Page (http://localhost/osTicket/scp/login.php).
   - Log into the osTicket Help Desk using an Agent account (this example uses username **jane.doe / jane.doe@osticket.com**).
   - Once logged in, you should see the created tickets from the clients.
+- Click on any available ticket (this example selects **entire mobile online banking is down**).
 <p align=center>
-<img src="https://i.imgur.com/IlBoq7U.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IlBoq7U.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- 
-<p align=center>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+_As an Agent, we'll observe and configure information of this ticket._
 
-- 
+_Having the entire mobile online banking down is something that could have a major impact on the company, resulting in losing money. The severity on this should be higher and should be assigned to the departments/teams that can be responsible to resolve this issue ASAP!_
+- Set Priorty from Normal to "Emergency".
+- Assign to a higher-tier department, such as "System Administrators".
+- Assign a specific person(s) the responsbility to manage this ticket.
+- Modify the SLA Plan from Normal to "SEV-A".
 <p align=center>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-- 
-<p align=center>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/V8WJ5GJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JR8XMOt.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CvAfVuZ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Wk23cCI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
