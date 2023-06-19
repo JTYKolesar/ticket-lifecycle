@@ -65,10 +65,10 @@ _Tickets have been made! We'll now go into the Agent's perspective of their end:
 _As an Agent, we'll observe and configure information of this ticket._
 
 _Having the entire mobile online banking down is something that could have a major impact on the company, resulting in losing money. The severity on this should be higher and should be assigned to the departments/teams that can be responsible to resolve this issue ASAP!_
-- Set Priorty from Normal to "Emergency".
-- Assign to a higher-tier department, such as "System Administrators".
-- Assign a specific person(s) the responsbility to manage this ticket.
-- Modify the SLA Plan from Normal to "SEV-A".
+- Set Priorty from Normal to a higher level (this example uses **Emergency**).
+- Assign to a higher-tier department (this example uses **System Administrators**).
+- Assign a specific person(s) the responsbility to manage this ticket (this example uses the current user, **Jane Doe**).
+- Modify the SLA Plan from Normal to a higher level (this example uses **SEV-A**).
 <p align=center>
 <img src="https://i.imgur.com/V8WJ5GJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/JR8XMOt.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
